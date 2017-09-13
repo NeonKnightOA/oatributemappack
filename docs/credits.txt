@@ -41,14 +41,14 @@
 ### mpteam6 - Vortex Portal (Quake III: Team Arena)
 - delta, by Bob "dmn_clown" Isaac
 
-### q2ctf1 - McKinley Revival
+### q2ctf1 - McKinley Revival (Quake II CTF)
 - am_mckinleyish, by Luciano "Neon_Knight" Balducchi
 - am_mckinleyish2, by Luciano "Neon_Knight" Balducchi
 
-### q3ctf1 - Dueling Keeps
+### q3ctf1 - Dueling Keeps (Quake III: Arena)
 - am_q3ctf1ish, by Luciano "Neon_Knight" Balducchi
 
-### q3ctf4 - Space CTF
+### q3ctf4 - Space CTF (Quake III: Arena)
 - cbctf1, by C. Brutail
 - oa_ctf4evo, by adriano
 - oa_ctf4ish, by Bob "dmn_clown" Isaac
@@ -56,7 +56,7 @@
 - oa_ctf4ishy, by Bob "dmn_clown" Isaac, "Peter Silie"
 - sos_ctf4ish, by adriano
 
-### q3dm6 - The Camping Grounds
+### q3dm6 - The Camping Grounds (Quake III: Arena)
 - mx2dm1, by Moixie
 - mx3dm1, by Moixie
 - mx4dm1, by Moixie
@@ -72,16 +72,16 @@
 - q3dm6ish-ctf2, by Wouter "Aardappel" van Oortmerssen, leileilol, Luciano "Neon_Knight" Balducchi
 - q3dm6ish-ctf-b1v2, by Wouter "Aardappel" van Oortmerssen, leileilol, Luciano "Neon_Knight" Balducchi
 
-### q3dm17 - The Longest Yard
+### q3dm17 - The Longest Yard (Quake III: Arena)
 - dm17ish, by cosmo
 - q3dm17_oa_a02, by carca55gr1nd3r
 - wrackdm17, by ???, cosmo
 
-### q3tourney6 - The Very End Of You
+### q3tourney6 - The Very End Of You (Quake III: Arena)
 - q3tourney6ish, by The Walrus
 
-### q3tourney6_ctf - Across Space
+### q3tourney6_ctf - Across Space (Quake III: Arena)
 - tourney6ish_ctf, by The Walrus
 
-### qcbloodrun - Blood Run
+### qcbloodrun - Blood Run (Quake Champions)
 - oa_bloodrun, by Cosimo "Akom74" Pederiva
