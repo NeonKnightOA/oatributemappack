@@ -1,0 +1,28 @@
+/////////////////////////////////////////////////////////////////////////////////////////
+
+Title                   : oa_ctf4evo
+PK3 Name                : oa_ctf4evo.pk3
+Date			: 01/06/2017
+Author                 	: *SoS*AdR!aNo
+Home Page		: http://www.sosclan.sosforum.net/
+Copyright/Permissions	: gpl-2.0 (see file COPYING in maps-folder)
+Installation		: To install, simply place oa_ctf4evo.pk3 in the baseoa folder of your Openarena directory.
+Map-Info		: This map is a modified version of oa_ctf4ish (GTKRadiant v1.5 used). 
+			  It got a new advanced design with anticamping options and added items like flight, quad and invulnerability. The BFG was replaced with plasma. 
+MOD			: CTF
+Bot Support		: Yes
+Thanks to		: Failgun... who gave me the opportunity to do several tests on his well known :F server
+
+			the OA.ws-team, especially...
+			- Gig...who is always present when help is need... I never stop to say thank you :) 
+			- cheb... for the teleporter ideas at rocket-platform
+			- Blankbruno... for testing
+			- Neon_Knight... for his precious advices
+
+			and the SoS-Team and all the complimenting people :) 
+			  
+
+			THANK YOU ALL! ;)
+			  
+/////////////////////////////////////////////////////////////////////////////////////////
+

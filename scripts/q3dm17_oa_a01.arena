@@ -1,0 +1,9 @@
+{
+map        "q3dm17_oa_a02"
+longname        "q3dm17 Redux OA"
+type        "ffa tourney team"
+bots        "Ghost Grunt Penguin"
+fraglimit        20
+timelimit        15
+} 
+ 
