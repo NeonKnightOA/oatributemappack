@@ -1,0 +1,87 @@
+### dm1 - The Place of Two Deaths (Quake)
+- oa_dm1, by Tim Willits, Bob "dmn_clown" Isaac
+- oa_dm1-a5, by Tim Willits, Bob "dmn_clown" Isaac, Luciano "Neon_Knight" Balducchi
+- oa_dm1v2, by Tim Willits, Bob "dmn_clown" Isaac, Luciano "Neon_Knight" Balducchi, kit89
+
+### dm2 - Claustrophobopolis (Quake)
+- oa_dm2, by American McGee, Bob "dmn_clown" Isaac
+- oa_dm2ish, by Wouter "Aardappel" van Oortmerssen, Luciano "Neon_Knight" Balducchi
+
+### dm3 - The Abandoned Base (Quake)
+- dm3ish, by Wouter "Aardappel" van Oortmerssen, leileilol
+- oa_dm3, by John Romero, Bob "dmn_clown" Isaac, Conrad "anyone" Colwood
+
+### dm4 - The Bad Place (Quake)
+- dm4ish, by Wouter "Aardappel" van Oortmerssen
+- dm4ishv2, by Wouter "Aardappel" van Oortmerssen, Luciano "Neon_Knight" Balducchi
+- dm4ishv2-a2, by Wouter "Aardappel" van Oortmerssen, Luciano "Neon_Knight" Balducchi
+- oa_dm4, by American McGee, Bob "dmn_clown" Isaac
+
+### dm5 - The Cistern (Quake)
+- oa_dm5, by Tim Willits, Bob "dmn_clown" Isaac, Conrad "anyone" Colwood
+- oa_dm5-a2, by Tim Willits, Bob "dmn_clown" Isaac, Conrad "anyone" Colwood, Luciano "Neon_Knight" Balducchi
+- oa_dm5v2, by Tim Willits, Bob "dmn_clown" Isaac, Conrad "anyone" Colwood, Luciano "Neon_Knight" Balducchi
+
+### dm6 - The Dark Zone (Quake)
+- dm6ish, by Wouter "Aardappel" van Oortmerssen
+- oa_dm6, by Tim Willits, Bob "dmn_clown" Isaac
+
+### dm7 - The Cistern (Quake)
+- oa_dm7, by David Namaksy, Poul "sago007" Sander
+
+### e1m2 - Castle of the Damned (Quake)
+- e1m2ish - by Wouter "Aardappel" van Oortmerssen
+
+### e1m5 - Gloom Keep (Quake)
+- oa_e1m5, by Tim Willits, Luciano "Neon_Knight" Balducchi
+
+### e1m7 - The House of Chthon
+- ce1m7, by Ed
+
+### mpteam6 - Vortex Portal (Quake III: Team Arena)
+- delta, by Bob "dmn_clown" Isaac
+
+### q2ctf1 - McKinley Revival
+- am_mckinleyish, by Luciano "Neon_Knight" Balducchi
+- am_mckinleyish2, by Luciano "Neon_Knight" Balducchi
+
+### q3ctf1 - Dueling Keeps
+- am_q3ctf1ish, by Luciano "Neon_Knight" Balducchi
+
+### q3ctf4 - Space CTF
+- cbctf1, by C. Brutail
+- oa_ctf4evo, by adriano
+- oa_ctf4ish, by Bob "dmn_clown" Isaac
+- oa_ctf4ish2, by Bob "dmn_clown" Isaac, "Peter Silie"
+- oa_ctf4ishy, by Bob "dmn_clown" Isaac, "Peter Silie"
+- sos_ctf4ish, by adriano
+
+### q3dm6 - The Camping Grounds
+- mx2dm1, by Moixie
+- mx3dm1, by Moixie
+- mx4dm1, by Moixie
+- mx4dm1_alt, by Moixie
+- q3dm6ish, by Wouter "Aardappel" van Oortmerssen, leileilol
+- q3dm6ish_v2, by Wouter "Aardappel" van Oortmerssen, leileilol, Georges "TRaK" Grondin
+- q3dm6ishv3, by Wouter "Aardappel" van Oortmerssen, leileilol, Luciano "Neon_Knight" Balducchi
+- q3dm6ishv3_b3, by Wouter "Aardappel" van Oortmerssen, leileilol, Luciano "Neon_Knight" Balducchi
+- q3dm6ishv3_bb2, by Luciano "Neon_Knight" Balducchi
+
+### q3dm6-ctf - The Camping Grounds CTF (Bonus)
+- q3dm6ish-ctf, by Wouter "Aardappel" van Oortmerssen, leileilol, Luciano "Neon_Knight" Balducchi
+- q3dm6ish-ctf2, by Wouter "Aardappel" van Oortmerssen, leileilol, Luciano "Neon_Knight" Balducchi
+- q3dm6ish-ctf-b1v2, by Wouter "Aardappel" van Oortmerssen, leileilol, Luciano "Neon_Knight" Balducchi
+
+### q3dm17 - The Longest Yard
+- dm17ish, by cosmo
+- q3dm17_oa_a02, by carca55gr1nd3r
+- wrackdm17, by ???, cosmo
+
+### q3tourney6 - The Very End Of You
+- q3tourney6ish, by The Walrus
+
+### q3tourney6_ctf - Across Space
+- tourney6ish_ctf, by The Walrus
+
+### qcbloodrun - Blood Run
+- oa_bloodrun, by Cosimo "Akom74" Pederiva

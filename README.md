@@ -6,6 +6,8 @@ It's pretty obvious that these maps became "classics" of both Q3A and OA (and no
 
 This pack follows the same license (GPLv2) as OpenArena, so every asset should be licensed by either GPLv2 or Public Domain.
 
+This project houses only the sources for every map. Plenty of these sources are just scraps and unfinished shells and maps. You're welcome to make something out of them. Remember, though, that these maps should respect the existing layout while also having their gameplay adapted into OA.
+
 ## Who can enter?
 * Anyone, as long as they respect the rules of the mappack. (See below) They don't need to be mappers, even if they can't produce assets, this doesn't mean that they can't test the maps themselves and give feedback.
 
@@ -34,6 +36,9 @@ This pack follows the same license (GPLv2) as OpenArena, so every asset should b
 * CTF maps with a marked middle area (i.e. q3ctf1ish) can support One Flag CTF and Harvester.
 * For Elimination, it's recommended to use the ''team_CTF_[red/blue]spawn'' spawnpoints, so each team has a spawnplace.
 * Maps with very differentiated areas regardless of teamness can support Domination.
+
+## Provisory list
+See docs/credits.txt.
 
 ## External Links
 * [Quake 1 map sources](http://www.onykage.com/files/armageddonman/q1sources-netradiant.zip) converted for GTKR1.5+ and NetRadiant.

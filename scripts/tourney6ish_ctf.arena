@@ -1,0 +1,7 @@
+{
+map             "tourney6ish_ctf"
+longname        ""
+bots            "major"
+fraglimit       20
+type            "ctf ctfelimination"
+}

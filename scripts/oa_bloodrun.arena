@@ -1,0 +1,9 @@
+
+{
+map		"oa_bloodrun"
+longname	"Blood Run - By Akom74"
+fraglimit	"20"
+timelimit	"30"
+bots "beret grunt neko ghost ayumi tanisha gargoyle"
+type		"ffa tourney"
+}

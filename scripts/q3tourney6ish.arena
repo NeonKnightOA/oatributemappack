@@ -1,0 +1,7 @@
+{
+map             "q3tourney6ish"
+longname        ""
+bots            "kyonshi major grunt"
+fraglimit       20
+type            "tourney ffa elimination lms team"
+}
